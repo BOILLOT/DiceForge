@@ -1,0 +1,12 @@
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/interfaces/IServer.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/PlayerManager.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/interfaces/IPlayerManager.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/GameState.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/Server.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/GameManager.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/interfaces/IGameManager.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/GameLoop.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/HandlerChoiceFace.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/SortByGlory.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/Display.java
+/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/game/src/main/java/game/GameStepLoop.java

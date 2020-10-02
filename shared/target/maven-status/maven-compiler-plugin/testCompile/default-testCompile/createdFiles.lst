@@ -1,0 +1,10 @@
+test/IslandTest.class
+test/ForgeTest.class
+test/InventoryTest.class
+test/CardTest.class
+test/PlayerTest.class
+test/CostTest.class
+test/FaceTest.class
+test/HybridFaceTest.class
+test/BasinTest.class
+test/DiceTest.class

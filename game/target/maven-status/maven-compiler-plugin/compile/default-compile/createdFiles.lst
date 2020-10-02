@@ -1,0 +1,13 @@
+game/GameLoop.class
+game/GameStepLoop.class
+game/Server.class
+game/Display.class
+game/PlayerManager.class
+game/SortByGlory.class
+interfaces/IServer.class
+game/Server$1.class
+game/HandlerChoiceFace.class
+interfaces/IPlayerManager.class
+interfaces/IGameManager.class
+game/GameState.class
+game/GameManager.class

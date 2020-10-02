@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="test.ClientTest" time="0.011" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/test-classes:/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/classes:/home/valentin/.m2/repository/io/socket/socket.io-client/1.0.0/socket.io-client-1.0.0.jar:/home/valentin/.m2/repository/io/socket/engine.io-client/1.0.0/engine.io-client-1.0.0.jar:/home/valentin/.m2/repository/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1.jar:/home/valentin/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/home/valentin/.m2/repository/org/json/json/20090211/json-20090211.jar:/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/shared/target/shared-1.0.jar:/home/valentin/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:/home/valentin/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/home/valentin/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.0/jackson-databind-2.2.0.jar:/home/valentin/.m2/repository/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter/5.5.2/junit-jupiter-5.5.2.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar:/home/valentin/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/valentin/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/valentin/.m2/repository/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.5.2/junit-jupiter-params-5.5.2.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar:/home/valentin/.m2/repository/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar:/home/valentin/.m2/repository/org/mockito/mockito-junit-jupiter/3.0.0/mockito-junit-jupiter-3.0.0.jar:/home/valentin/.m2/repository/org/mockito/mockito-core/3.0.0/mockito-core-3.0.0.jar:/home/valentin/.m2/repository/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar:/home/valentin/.m2/repository/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar:/home/valentin/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/surefire/surefirebooter10693725443704508238.jar /home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/surefire 2020-10-01T11-56-03_362-jvmRun1 surefire12894797803460043730tmp surefire_12815152296004246422tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/test-classes:/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/classes:/home/valentin/.m2/repository/io/socket/socket.io-client/1.0.0/socket.io-client-1.0.0.jar:/home/valentin/.m2/repository/io/socket/engine.io-client/1.0.0/engine.io-client-1.0.0.jar:/home/valentin/.m2/repository/com/squareup/okhttp3/okhttp/3.8.1/okhttp-3.8.1.jar:/home/valentin/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/home/valentin/.m2/repository/org/json/json/20090211/json-20090211.jar:/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/shared/target/shared-1.0.jar:/home/valentin/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:/home/valentin/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/home/valentin/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.0/jackson-databind-2.2.0.jar:/home/valentin/.m2/repository/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter/5.5.2/junit-jupiter-5.5.2.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar:/home/valentin/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/valentin/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/valentin/.m2/repository/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.5.2/junit-jupiter-params-5.5.2.jar:/home/valentin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar:/home/valentin/.m2/repository/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar:/home/valentin/.m2/repository/org/mockito/mockito-junit-jupiter/3.0.0/mockito-junit-jupiter-3.0.0.jar:/home/valentin/.m2/repository/org/mockito/mockito-core/3.0.0/mockito-core-3.0.0.jar:/home/valentin/.m2/repository/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar:/home/valentin/.m2/repository/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar:/home/valentin/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/valentin"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client/target/surefire/surefirebooter10693725443704508238.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.8+10-post-Ubuntu-0ubuntu118.04.1"/>
+    <property name="user.name" value="valentin"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="4.15.0-112-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/valentin/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="user.dir" value="/home/valentin/Bureau/IT7_FINAL/diceforge201920-tp1-dfa/TP1A/client"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="java.vm.version" value="11.0.8+10-post-Ubuntu-0ubuntu118.04.1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="runTest" classname="test.ClientTest" time="0.001"/>
+</testsuite>

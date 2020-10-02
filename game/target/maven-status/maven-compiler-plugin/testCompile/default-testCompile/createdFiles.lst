@@ -1,0 +1,5 @@
+test/SortByGloryTest.class
+test/GameLoopIT.class
+test/PlayerManagerTest.class
+test/GameManagerTest.class
+test/HandlerChoiceFaceTest.class
